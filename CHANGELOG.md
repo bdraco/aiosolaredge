@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.0 (2024-04-14)
+
+### Feature
+
+- Add debug logging (#3) ([`dd184a4`](https://github.com/bdraco/aiosolaredge/commit/dd184a4aa6a50b4a48040b5f2caae04760f83a3d))
+
 ## v0.1.0 (2024-04-14)
 
 ### Feature
